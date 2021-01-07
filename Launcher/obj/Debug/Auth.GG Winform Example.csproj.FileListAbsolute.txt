@@ -1,0 +1,14 @@
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\bin\Debug\Auth.GG Winform Example.exe.config
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\bin\Debug\Auth.GG Winform Example.exe
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\bin\Debug\Auth.GG Winform Example.pdb
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\obj\Debug\GFN_mozarilla.Form1.resources
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\obj\Debug\Auth.GG_Winform_Example.Register.resources
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\obj\Debug\Auth.GG_Winform_Example.Login.resources
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\obj\Debug\Auth.GG_Winform_Example.Properties.Resources.resources
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\obj\Debug\Auth.GG Winform Example.csproj.GenerateResource.cache
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\obj\Debug\Auth.GG Winform Example.csproj.CoreCompileInputs.cache
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\obj\Debug\Auth.GG Winform Example.exe
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\obj\Debug\Auth.GG Winform Example.pdb
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\obj\Debug\Auth.GG_Winform_Example.GFN_Utilities.resources
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\obj\Debug\Auth.GG_Winform_Example.Browser.resources
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\obj\Debug\Auth.GG Winform Example.csprojAssemblyReference.cache

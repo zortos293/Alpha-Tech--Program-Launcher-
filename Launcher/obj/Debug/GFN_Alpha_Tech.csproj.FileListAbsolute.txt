@@ -1,0 +1,37 @@
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\bin\Debug\GFN Alpha Tech.exe.config
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\bin\Debug\GFN Alpha Tech.exe
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\bin\Debug\GFN Alpha Tech.pdb
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\obj\Debug\Auth.GG_Winform_Example.Browser.resources
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\obj\Debug\GFN_mozarilla.Form1.resources
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\obj\Debug\GFN_Alpha_Tech.Games.resources
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\obj\Debug\Auth.GG_Winform_Example.GFN_Utilities.resources
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\obj\Debug\GFN_Alpha_Tech.Launchers.resources
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\obj\Debug\Auth.GG_Winform_Example.Register.resources
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\obj\Debug\Auth.GG_Winform_Example.Login.resources
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\obj\Debug\GFN_Alpha_Tech.Properties.Resources.resources
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\obj\Debug\GFN_Alpha_Tech.csproj.GenerateResource.cache
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\obj\Debug\GFN_Alpha_Tech.csproj.CoreCompileInputs.cache
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\obj\Debug\GFN Alpha Tech.exe
+C:\Users\Zortos\Downloads\Auth.GG Winform Example\obj\Debug\GFN Alpha Tech.pdb
+C:\Users\Zortos\Downloads\Auth.GG Winform Example - Copy\obj\Debug\Auth.GG_Winform_Example.Register.resources
+C:\Users\Zortos\Downloads\Auth.GG Winform Example - Copy\obj\Debug\Auth.GG_Winform_Example.Login.resources
+C:\Users\Zortos\Downloads\Auth.GG Winform Example - Copy\obj\Debug\GFN_Alpha_Tech.Properties.Resources.resources
+C:\Users\Zortos\Downloads\Auth.GG Winform Example - Copy\obj\Debug\GFN_Alpha_Tech.csproj.GenerateResource.cache
+C:\Users\Zortos\Downloads\Auth.GG Winform Example - Copy\obj\Debug\GFN_Alpha_Tech.csproj.CoreCompileInputs.cache
+C:\Users\Zortos\Downloads\Auth.GG Winform Example - Copy\bin\Debug\Login.exe.config
+C:\Users\Zortos\Downloads\Auth.GG Winform Example - Copy\bin\Debug\Login.exe
+C:\Users\Zortos\Downloads\Auth.GG Winform Example - Copy\bin\Debug\Login.pdb
+C:\Users\Zortos\Downloads\Auth.GG Winform Example - Copy\obj\Debug\Login.exe
+C:\Users\Zortos\Downloads\Auth.GG Winform Example - Copy\obj\Debug\Login.pdb
+C:\Users\Zortos\Downloads\Auth.GG Winform Example - Copy\obj\Debug\GFN_Alpha_Tech.csprojAssemblyReference.cache
+E:\Alpha TECH\Auth.GG Winform Example - Copy\bin\Debug\Login.exe.config
+E:\Alpha TECH\Auth.GG Winform Example - Copy\bin\Debug\Login.exe
+E:\Alpha TECH\Auth.GG Winform Example - Copy\bin\Debug\Login.pdb
+E:\Alpha TECH\Auth.GG Winform Example - Copy\obj\Debug\GFN_Alpha_Tech.csprojAssemblyReference.cache
+E:\Alpha TECH\Auth.GG Winform Example - Copy\obj\Debug\Auth.GG_Winform_Example.Register.resources
+E:\Alpha TECH\Auth.GG Winform Example - Copy\obj\Debug\Auth.GG_Winform_Example.Login.resources
+E:\Alpha TECH\Auth.GG Winform Example - Copy\obj\Debug\GFN_Alpha_Tech.Properties.Resources.resources
+E:\Alpha TECH\Auth.GG Winform Example - Copy\obj\Debug\GFN_Alpha_Tech.csproj.GenerateResource.cache
+E:\Alpha TECH\Auth.GG Winform Example - Copy\obj\Debug\GFN_Alpha_Tech.csproj.CoreCompileInputs.cache
+E:\Alpha TECH\Auth.GG Winform Example - Copy\obj\Debug\Login.exe
+E:\Alpha TECH\Auth.GG Winform Example - Copy\obj\Debug\Login.pdb

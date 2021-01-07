@@ -1,0 +1,10 @@
+C:\Users\Zortos\Downloads\Auth.GG Winform Example - Copy\bin\Release\Login.exe.config
+C:\Users\Zortos\Downloads\Auth.GG Winform Example - Copy\bin\Release\Login.exe
+C:\Users\Zortos\Downloads\Auth.GG Winform Example - Copy\bin\Release\Login.pdb
+C:\Users\Zortos\Downloads\Auth.GG Winform Example - Copy\obj\Release\Auth.GG_Winform_Example.Register.resources
+C:\Users\Zortos\Downloads\Auth.GG Winform Example - Copy\obj\Release\Auth.GG_Winform_Example.Login.resources
+C:\Users\Zortos\Downloads\Auth.GG Winform Example - Copy\obj\Release\GFN_Alpha_Tech.Properties.Resources.resources
+C:\Users\Zortos\Downloads\Auth.GG Winform Example - Copy\obj\Release\GFN_Alpha_Tech.csproj.GenerateResource.cache
+C:\Users\Zortos\Downloads\Auth.GG Winform Example - Copy\obj\Release\GFN_Alpha_Tech.csproj.CoreCompileInputs.cache
+C:\Users\Zortos\Downloads\Auth.GG Winform Example - Copy\obj\Release\Login.exe
+C:\Users\Zortos\Downloads\Auth.GG Winform Example - Copy\obj\Release\Login.pdb

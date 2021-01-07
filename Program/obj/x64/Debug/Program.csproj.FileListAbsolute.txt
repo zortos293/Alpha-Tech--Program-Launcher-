@@ -1,0 +1,15 @@
+C:\Users\Zortos\Downloads\Program\bin\x64\Debug\Start.exe.config
+C:\Users\Zortos\Downloads\Program\bin\x64\Debug\Start.exe
+C:\Users\Zortos\Downloads\Program\bin\x64\Debug\Start.pdb
+C:\Users\Zortos\Downloads\Program\bin\x64\Debug\Siticone.UI.dll
+C:\Users\Zortos\Downloads\Program\obj\x64\Debug\Auth.GG_Winform_Example.Browser.resources
+C:\Users\Zortos\Downloads\Program\obj\x64\Debug\GFN_mozarilla.Form1.resources
+C:\Users\Zortos\Downloads\Program\obj\x64\Debug\GFN_Alpha_Tech.Games.resources
+C:\Users\Zortos\Downloads\Program\obj\x64\Debug\Auth.GG_Winform_Example.GFN_Utilities.resources
+C:\Users\Zortos\Downloads\Program\obj\x64\Debug\GFN_Alpha_Tech.Launchers.resources
+C:\Users\Zortos\Downloads\Program\obj\x64\Debug\Start.Properties.Resources.resources
+C:\Users\Zortos\Downloads\Program\obj\x64\Debug\Program.csproj.GenerateResource.cache
+C:\Users\Zortos\Downloads\Program\obj\x64\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\Zortos\Downloads\Program\obj\x64\Debug\Program.csproj.CopyComplete
+C:\Users\Zortos\Downloads\Program\obj\x64\Debug\Start.exe
+C:\Users\Zortos\Downloads\Program\obj\x64\Debug\Start.pdb

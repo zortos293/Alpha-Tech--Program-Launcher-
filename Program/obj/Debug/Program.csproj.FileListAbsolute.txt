@@ -1,0 +1,35 @@
+C:\Users\Zortos\Downloads\Program\bin\Debug\Start.exe.config
+C:\Users\Zortos\Downloads\Program\bin\Debug\Start.exe
+C:\Users\Zortos\Downloads\Program\bin\Debug\Start.pdb
+C:\Users\Zortos\Downloads\Program\bin\Debug\Siticone.UI.dll
+C:\Users\Zortos\Downloads\Program\obj\Debug\Auth.GG_Winform_Example.Browser.resources
+C:\Users\Zortos\Downloads\Program\obj\Debug\GFN_mozarilla.Form1.resources
+C:\Users\Zortos\Downloads\Program\obj\Debug\GFN_Alpha_Tech.Games.resources
+C:\Users\Zortos\Downloads\Program\obj\Debug\Auth.GG_Winform_Example.GFN_Utilities.resources
+C:\Users\Zortos\Downloads\Program\obj\Debug\GFN_Alpha_Tech.Launchers.resources
+C:\Users\Zortos\Downloads\Program\obj\Debug\Start.Properties.Resources.resources
+C:\Users\Zortos\Downloads\Program\obj\Debug\Program.csproj.GenerateResource.cache
+C:\Users\Zortos\Downloads\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\Zortos\Downloads\Program\obj\Debug\Program.csproj.CopyComplete
+C:\Users\Zortos\Downloads\Program\obj\Debug\Start.exe
+C:\Users\Zortos\Downloads\Program\obj\Debug\Start.pdb
+C:\Users\Zortos\Downloads\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\Zortos\Downloads\Program\obj\Debug\Start.For2.resources
+E:\Alpha TECH\Program\bin\Debug\Start.exe.config
+E:\Alpha TECH\Program\bin\Debug\Start.exe
+E:\Alpha TECH\Program\bin\Debug\Start.pdb
+E:\Alpha TECH\Program\bin\Debug\Siticone.UI.dll
+E:\Alpha TECH\Program\obj\Debug\Start.Admin.resources
+E:\Alpha TECH\Program\obj\Debug\Auth.GG_Winform_Example.Browser.resources
+E:\Alpha TECH\Program\obj\Debug\GFN_mozarilla.Form1.resources
+E:\Alpha TECH\Program\obj\Debug\GFN_Alpha_Tech.Games.resources
+E:\Alpha TECH\Program\obj\Debug\Auth.GG_Winform_Example.GFN_Utilities.resources
+E:\Alpha TECH\Program\obj\Debug\GFN_Alpha_Tech.Launchers.resources
+E:\Alpha TECH\Program\obj\Debug\Start.Properties.Resources.resources
+E:\Alpha TECH\Program\obj\Debug\Program.csproj.GenerateResource.cache
+E:\Alpha TECH\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+E:\Alpha TECH\Program\obj\Debug\Program.csproj.CopyComplete
+E:\Alpha TECH\Program\obj\Debug\Start.exe
+E:\Alpha TECH\Program\obj\Debug\Start.pdb
+E:\Alpha TECH\Program\obj\Debug\Program.csprojAssemblyReference.cache
+E:\Alpha TECH\Program\obj\Debug\Start.Chetos.resources
